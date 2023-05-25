@@ -1,4 +1,4 @@
-### Olá, mares dos dados! Eu sou Valdefran Pereira🏴‍☠️
+## Olá, mares dos dados! Eu sou Valdefran Pereira🏴‍☠️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waldefran&show_icons=true&theme=radical)
 
@@ -15,4 +15,4 @@
 <img aling="center" alt="css" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waldefran&hide_progress=true)](https://github.com/waldefran/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waldefran&layout=compact)](https://github.com/waldefran/github-readme-stats)
