@@ -14,3 +14,5 @@
 <img aling="center" alt="css" src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img aling="center" alt="css" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waldefran&hide_progress=true)](https://github.com/waldefran/github-readme-stats)
